@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0",
+    "name": "Meaningful-1 ID:0",
+    "gameName": "Deep_1",
+    "difficulty": 2,
+    "maxMembers": 2,
+    "currentPlayers": [],
+    "startGame": false,
+    "endGame": false,
+    "info": "<a href=\"https://www.youtube.com/shorts/pvJtxQWPcgA\" target=\"_blank\">MEANINGFUL PICTURES - 1 </a>",
+    "frameColor": "#CCCCFF"
+
+  },
+  {
+    "id": "1",
+    "name": "Meaningful-2 ID:1",
+    "gameName": "Deep_2",
+    "difficulty": 2,
+    "maxMembers": 2,
+    "currentPlayers": [],
+    "startGame": false,
+    "endGame": false,
+    "info": "<a href=\"https://www.youtube.com/shorts/pvJtxQWPcgA\" target=\"_blank\">MEANINGFUL PICTURES - 2 </a>",
+    "frameColor": "#40E0D0"
+
+  },
+  {
+    "id": "2",
+    "name": "Meaningful-3 ID:2",
+    "gameName": "Deep_3",
+    "difficulty": 2,
+    "maxMembers": 2,
+    "currentPlayers": [],
+    "startGame": false,
+    "endGame": false,
+    "info": "<a href=\"https://www.youtube.com/shorts/pvJtxQWPcgA\" target=\"_blank\">MEANINGFUL PICTURES -3 </a>",
+	"frameColor": "#6495ED"
+  }, 
+  {
+    "id": "3",
+    "name": "Jana ID:3",
+    "gameName": "Jana_1",
+    "difficulty": 2,
+    "maxMembers": 2,
+    "currentPlayers": [],
+    "startGame": false,
+    "endGame": false,
+    "info": "<a href=\"https://www.youtube.com/shorts/pvJtxQWPcgA\" target=\"_blank\">Jana Photos</a>",
+    "frameColor": "#FF7F50" 
+  },
+  {
+    "id": "4",
+    "name": "Adva ID:4",
+    "gameName": "Adva",
+    "difficulty": 2,
+    "maxMembers": 2,
+    "currentPlayers": [],
+    "startGame": false,
+    "endGame": false,
+    "info": "<a href=\"https://www.youtube.com/shorts/pvJtxQWPcgA\" target=\"_blank\">Adva Paintings</a>",
+    "frameColor": "#FFBF00"
+  
+  }    
+]
