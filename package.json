@@ -1,7 +1,20 @@
 {
-  "name": "yarn_mg",
-  "license": "ISC",
+  "name": "meaningfull_pictures",
   "version": "0.1.0",
+  "description": "MEMORY MATCH GAME WITH DEEP MEENING IMAGES",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  },
+  "author": "Yasmin Amran",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -16,28 +29,11 @@
     "react-card-flip": "^1.2.2",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.16.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "socket.io": "^4.7.2",
     "socket.io-client": "^4.7.2",
     "styled-components": "^6.0.8",
     "web-vitals": "^2.1.0"
-  },
-  "proxy": "https://spotty-join-production.up.railway.app/",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "yarn:start": "react-scripts start --disableHostCheck=true",
-    "yarn:client": "react-scripts start",
-    "yarn:server": "node index.js",
-    "yarn:all": "concurrently \"yarn yarn:server\" \"yarn yarn:client\""
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
